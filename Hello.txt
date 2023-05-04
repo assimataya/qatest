@@ -1,3 +1,1 @@
-Git repo test
-
-making changes to the clone
+New feature added in new branch
